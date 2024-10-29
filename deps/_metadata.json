@@ -1,0 +1,76 @@
+{
+  "hash": "a4d05e9f",
+  "configHash": "79fbc2dc",
+  "lockfileHash": "64c3e026",
+  "browserHash": "3da5e1a4",
+  "optimized": {
+    "react": {
+      "src": "../../react/index.js",
+      "file": "react.js",
+      "fileHash": "150f5e05",
+      "needsInterop": true
+    },
+    "react/jsx-dev-runtime": {
+      "src": "../../react/jsx-dev-runtime.js",
+      "file": "react_jsx-dev-runtime.js",
+      "fileHash": "66a816a9",
+      "needsInterop": true
+    },
+    "react/jsx-runtime": {
+      "src": "../../react/jsx-runtime.js",
+      "file": "react_jsx-runtime.js",
+      "fileHash": "1f7b2b94",
+      "needsInterop": true
+    },
+    "firebase/app": {
+      "src": "../../firebase/app/dist/esm/index.esm.js",
+      "file": "firebase_app.js",
+      "fileHash": "01b87d17",
+      "needsInterop": false
+    },
+    "firebase/auth": {
+      "src": "../../firebase/auth/dist/esm/index.esm.js",
+      "file": "firebase_auth.js",
+      "fileHash": "3e066faf",
+      "needsInterop": false
+    },
+    "firebase/firestore": {
+      "src": "../../firebase/firestore/dist/esm/index.esm.js",
+      "file": "firebase_firestore.js",
+      "fileHash": "7251197f",
+      "needsInterop": false
+    },
+    "react-dom/client": {
+      "src": "../../react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "a04bde6e",
+      "needsInterop": true
+    },
+    "react-router-dom": {
+      "src": "../../react-router-dom/dist/index.js",
+      "file": "react-router-dom.js",
+      "fileHash": "79196acb",
+      "needsInterop": false
+    },
+    "react-toastify": {
+      "src": "../../react-toastify/dist/react-toastify.esm.mjs",
+      "file": "react-toastify.js",
+      "fileHash": "2e5103c8",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-BD64HVQY": {
+      "file": "chunk-BD64HVQY.js"
+    },
+    "chunk-M7F2YF5A": {
+      "file": "chunk-M7F2YF5A.js"
+    },
+    "chunk-CANBAPAS": {
+      "file": "chunk-CANBAPAS.js"
+    },
+    "chunk-5WRI5ZAA": {
+      "file": "chunk-5WRI5ZAA.js"
+    }
+  }
+}
